@@ -1,0 +1,32 @@
+Task commands
+--------------------------
+1.
+mkdir my_folder
+
+cd my_folder
+
+cat > my_file.txt
+> Hi
+> Iam mounika
+ctrl+D
+
+cat > another_file.txt
+> learning devops
+> This is my first task
+Ctrl+D
+
+cat another_file.txt >> my_file.txt
+
+cat my_file.txt
+
+2. 
+ touch file{1..20}
+ ls
+mv file1.txt file1.yml
+mv file2.txt file2.yml
+mv file3.txt file3.yml
+mv file4.txt file4.yml
+mv file5.txt file5.yml
+ls *.yml
+ls -l
+ls -t | head -n 5
