@@ -18,6 +18,7 @@ Ctrl+D
 cat another_file.txt >> my_file.txt
 
 cat my_file.txt
+ls 
 
 2. 
  touch file{1..20}.txt
